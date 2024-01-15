@@ -4,6 +4,7 @@ variable name should be separated by underscore
 variable name should be lowercase
 variable should have trailing underscore
 Spacing between elements
+variable should have trailing underscore
 variable name should be lowercase
 indentation
 order of access restrictions
