@@ -1,0 +1,22 @@
+It is difficult to predict user/customer needs.
+Incorrect interpretations of requirements by developers go undetected for a long time. During user acceptance tests, these issues are discovered but it is very late.
+Value delivering software over writing documentation.
+If documentation is absolutely essential then create it.
+Manager: “The customer is suggesting another change in feature X which is complete as per specification. They agree that it was built as we agreed upon but it lacks some functionality and will result in user frustration. Should we implement the change or not?” Developer: “Yes, if it does not fulfill user needs, we should make the change."
+In Lean Startup, you try to validate/invalidate your assumptions (crucial for the success of your product) as fast as you can.
+Lean Startup concepts recommends to go through Build-Measure-Learn cycles as fast as you can.
+WIP limit for Step X is 3. Step X is divided into "Doing" and "Done." Number of items in "Doing" column is 2, and number of items in "Done" column is 1
+WIP limit for Step X is 5. Step X is divided into "Doing" and "Done." Number of items in "Doing" column is 3, and number of items in "Done" column is 1. One of the item in previous step is done and developer wants to move that item to Step X
+Lean Startup
+Kanban
+Scrum
+DSDM
+Crystal
+XP
+Team should get together and discuss if we should increase the WIP limit of the development column as we have more developers and it will be smoother flow if WIP limit of the Development column is increased.
+Manager should ask the developer waiting for work to help the testers so that they can finish one of the items from their column and move it to Deployment column.
+Add another tester in the Testing team so this bottleneck can be resolved quickly.
+During the sprint planning meeting
+Most important items at the top, least important items at the bottom.
+Scrum has fixed time-boxed development cycles called sprints.
+Scrum is an adaptive framework/model

@@ -1,0 +1,14 @@
+You may end-up building something different than what you originally thought
+You are not sure about what exactly you want to build
+Incremental
+Sashimi
+Predictive
+An incremental model is one where you can build each part of the system individually but you release all at once.
+These models will be a good model to be used by a startup implement a new idea that is new to market
+Agreement among the stakeholders about the technical approach.
+It is a framework and not a specific model.
+It is an architecture-centric framework.
+The construction phase supports both iterative and incremental approaches.
+Very small, simple project where the problem and solution are well known.
+You always have to perform all the steps mentioned in the Spiral Model diagram
+Easy to understand and implement.

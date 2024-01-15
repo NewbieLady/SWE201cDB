@@ -1,0 +1,18 @@
+True
+Adapter Pattern
+Observer Pattern
+Strategy Pattern
+When the context is tasked with deciding which strategy to use
+False
+False
+False
+True
+True
+0.714
+0.333
+0.5
+A
+2
+3
+4
+4

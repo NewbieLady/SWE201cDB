@@ -1,0 +1,20 @@
+The developers make different solutions, each with the exact same features.
+The developers use short iterations.
+There are product defects found late in the development.
+Developers work on rarely used product features.
+Decisions are made after having enough information from considering the alternatives.
+Iterations are short, so feedback is frequent, and product evolution is rapid.
+A simpler version of software product (an MVP - Minimum Viable Product) is developed first to reach the market rapidly.
+The developers apply practices to avoid or quickly catch errors while making the software product.
+The developers refactor the source code to be simpler and easier to modify.
+Rather than trying to optimize one part, look at the whole system for optimization opportunities.
+The ability of a system to achieve its purpose depends on how well the parts work together, not just how well they perform individually.
+Value Stream Mapping
+Daily Builds and Smoke Tests
+Iteration
+Set Based Development
+Minimize the number of items in-process.
+Defer Commitment
+Reducing the amount of useless activity that our resources (the team members) are currently burdened with.
+Weekly meetings that are held whether or not they are needed.
+Delays in receiving work products.

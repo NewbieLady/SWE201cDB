@@ -1,0 +1,13 @@
+Between architecture and implementation
+Polymorphism
+Information hiding
+Coupling
+Cohesion
+Allowing one module to affect the program flow of another via the use of a state message (message coupling)
+including functionality which occurs around the same time
+inputs, expected output, and an oracle
+Failure
+software is well-received by the user
+Utilize the intern resources to design and develop drivers and stubs, while work continues on critical-path module development
+When you run out of time
+Developing test cases based on typical user behavior

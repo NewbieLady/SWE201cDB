@@ -1,0 +1,17 @@
+If documentation is absolutely essential then create it.
+Value delivering software over writing documentation.
+The Agile Manifesto is work in progress and we are continuing to learn.
+The Agile Manifesto consists of 4 values and 12 principles.
+Manager: “The customer is suggesting another change in feature X which is complete according to the specification. They agree that it was built as we agreed upon but it lacks some functionality and will result in user frustration. Should we implement the change or not?” Developer: “Yes, if it does not fulfill user needs, we should make the change."
+Difficult to understand user needs.
+Translation issues. Requirements are misinterpreted.
+Sometime the market shifts from time when the requirements were originally defined.
+We should frequently deliver software in some environment (not necessarily to production always) to gather user/client feedback
+If a team has delivered 5 features out of 10 features (or stories), team has made progress (they are more than 0% done)
+For a project where change is not expected. requirements are well known, and the solution is both well known and repeatable.
+An agile methodology may help a team to go to market early by delivering with limited functionality.
+Automated Regression testing provides faster feedback which helps you detect defects quickly. This in turn, gives you confidence to make changes.
+Keep design simple and just build what is required. It is easier to change a simple design than to update a complicated design.
+Keep the code clean and continuously improve/refactor the design as needed. Don't delay these changes for later.
+The team talks about the high-level software architecture / design as well as their approach for building software (the release plan) before directly jumping into coding.
+If required, the team may need to plan and conduct training, etc. for users before launching the system.

@@ -1,0 +1,20 @@
+indentation
+order of access restrictions
+variable name should be separated by underscore
+variable name should be lowercase
+variable should have trailing underscore
+Spacing between elements
+variable name should be lowercase
+indentation
+order of access restrictions
+Spacing between elements
+method names should be CamelCase
+False
+Breakpoint
+False
+False
+False
+True
+False
+True
+False

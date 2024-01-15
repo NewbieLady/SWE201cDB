@@ -1,0 +1,12 @@
+Accurately identifying user needs
+Both
+5-10% of the total time spent on the project
+Requirements - user needs in user language; Specification - solution properties designed to solve problem
+Allow the user to post a message to Facebook
+The user shall be able to select the course number.
+S,P,M
+partitioning large systems into smaller ones that can be created separately, have individual business value, and can be easily integrated
+blackboard
+pipe-and-filter
+client-server
+A set of classes which generates reports
