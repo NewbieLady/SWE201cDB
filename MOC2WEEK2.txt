@@ -1,25 +1,10 @@
-User stories are tokens for conversations.
-Stories can be written at different levels and can be refined and split into smaller stories as you move from vague idea to implemented software.
-User stories are used to plan, design, describe, build, and validate your product.
-They help the product owner (who is writing the story) think through the user needs.
-They help you write tests cases for the story.
-They help build a common understanding between team members.
-They can potentially help you split stories, if required.
-It doesn't specify the value of the story (the "why" is missing).
-The user who benefits from this story is missing (the "who" is missing).
-It is not testable.
-No valid user is identified.
-At any given time, the level of detail may be different for different parts of the software.
-The agile way supports progressive refinement---defining the right level of detail at the right time.
-Agile encourages conversations as a key method for building a shared understanding.
-To generate stories, one of the options is to start from the top down or bottom up.
-Sometimes, you keep it free-form for people to write stories and later group them by theme.
-User role analysis and defining personas
-Everybody silently writes user stories around a theme
-It is a user-centric approach where we map out the system from a user's perspective.
-The horizontal axis (moving from left to right) in a story map represents time.
-The vertical axis (moving from top to bottom) in a story map represents rough priority.
-Most likely: Story 1 to Story 8; Might Be Done: Story 9 to Story 13; Not likely: Rest of the stories
-Plan just enough, just in time.
-Use Adaptive Planning.
-It is calculated at the team level and represents how much work a team can get done in an iteration.
+What is true about user stories in Agile Software Development? (Select any 3)|User stories are tokens for conversations.$Stories can be written at different levels and can be refined and split into smaller stories as you move from vague idea to implemented software.$User stories are used to plan, design, describe, build, and validate your product.
+What are some of the benefits of writing acceptance tests for a story? (select 4)|They help the product owner (who is writing the story) think through the user needs.$They help you write tests cases for the story.$They help build a common understanding between team members.$They can potentially help you split stories, if required.
+What is wrong with the following story? (Select any 2) "As a product owner, I want a list of highly-rated restaurants on the brochure."|It doesn't specify the value of the story (the "why" is missing).$The story is not small.
+What is wrong with following user story? (Select any 2) "I want the software to be easy to use."|No valid user is identified.$It is not testable.
+How is gathering user needs / requirements different on an agile project? (select any 3)|At any given time, the level of detail may be different for different parts of the software.$The agile way supports progressive refinement---defining the right level of detail at the right time.$Agile encourages conversations as a key method for building a shared understanding.
+What are some of the activities that happen during a User Story Writing Workshop? (Select any 4)|Sometimes, you keep it free-form for people to write stories and later group them by theme.$Team members write software code to build the functionality$To generate stories, one of the options is to start from the top down or bottom up.$User role analysis and defining personas
+Which of the following are true about the Story Mapping technique? (select 3)|It is a user-centric approach where we map out the system from a user's perspective.$The horizontal axis (moving from left to right) in a story map represents time.$The vertical axis (moving from top to bottom) in a story map represents rough priority.
+Due to an unpredictable market event, the Product Owner (PO) asked the team to complete the next release in 6 weeks. Assuming the backlog in Table 2 is up to date and prioritized from highest to lowest, the Product Owner wants you to estimate what can be done in next 6 weeks. Describe 1) what can be done, 2) what might be done, and 3) what will not be done. The velocity range to be used for the release planning is 15-22. The team works in 2 week iteration. Table 2: Prioritized Product Backlog Story Title Estimate (in ideal days) Story 1 5 Story 2 5 Story 3 8 Story 4 3 Story 5 5 Story 6 5 Story 7 3 Story 8 5 Story 9 8 Story 10 8 Story 11 3 Story 12 3 Story 13 3 Story 14 5 Story 15 8 Story 16 3 Story 17 5 Story 18 5 Story 19 8 Story 20 8|Most likely: Story 1 to Story 8; Might Be Done: Story 9 to Story 13; Not likely: Rest of the stories
+What is true about planning with an agile mindset? (Select any 2)|Plan just enough, just in time.$Use Adaptive Planning.
+What do we mean by Velocity in agile terms?|It is calculated at the team level and represents how much work a team can get done in an iteration.
