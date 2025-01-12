@@ -1,16 +1,10 @@
-Write a test
-Pair Programming
-Whole Team
-Continuous Integration
-Pair Programming
-All the skills necessary to deliver the software product should be present on the team.
-Create a spike story---a new story under which the team will do some research or other work to gain a better understanding of the original story.
-As a team, update the acceptance test so the test passes.
-Breaking stories into smaller tasks.
-Selecting the next week's work.
-Reviewing the previous week's progress.
-If the team finds out that they need a particular skill in the team,  they can add a person with that skill to the team.
-It is not recommended for a team member to be part of multiple teams.
-All of the skills the team needs to be successful should be in the team.
-Slow down the frequency of feedback.
-Select the simplest design that could possibly work.
+Which of the following is the right sequence when developing software using the XP practice of Test First Programming?|Write a test Make sure the test fails Write enough code so the test passes Refactor as necessary
+Which XP practice prescribes that "the code [always be] written by two programmers at one machine"?|Pair Programming
+Which of the following are primary practices prescribed by XP?|Pair Programming$Continuous Integration$Whole Team
+Which of the following is the meaning of XP practice "Whole Team"?|All the skills necessary to deliver the software product should be present on the team.
+If an XP team cannot provide an estimate for a story, what should they do to gain a better understanding of the story?|Create a spike story---a new story under which the team will do some research or other work to gain a better understanding of the original story.
+According to XP's principles, what should you do when a story's acceptance test fails?|As a team, update the acceptance test so the test passes.
+What activities occur as part of XP's "Weekly Planning" practice?|Selecting the next week's work.$Breaking stories into smaller tasks.
+According to the concept of "Whole Team", which of the following statements are true?|If the team finds out that they need a particular skill in the team, they can add a person with that skill to the team.$All of the skills the team needs to be successful should be in the team.
+An XP team is getting feedback more frequently than they can handle. What should they do?|Slow down the frequency of feedback.
+Which of the following statements are true about the XP value of "Simplicity"?|Select the simplest design that could possibly work.
