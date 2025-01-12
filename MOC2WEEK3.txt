@@ -1,23 +1,10 @@
-In the daily stand-up, everybody talks about what they worked on, what they are planning to work on, and any impediments they have.
-Burn-down and Burn-up charts help the team track the progress of the current sprint.
-Scrum is an adaptive model.
-Scrum has fixed, time-boxed development cycles called sprints.
-The developers/testers ask questions to understand the stories.
-The team will select the stories to work on for next iteration (sprint).
-The product owner (or equivalent) shares the top priority stories for the sprint.
-Either during the meeting or afterwards, developers create tasks to further solidify what work needs to be done and make final a work commitment for the sprint.
-The developers/testers provide a high-level estimate for stories.
-Team member taking vacation / days off / Paid time off (PTO)
-Organizational Meetings
-Sprint Ceremonies
-What happened during the Sprint is reported.
-Feedback is gathered from stakeholders resulting in additional items added to the product backlog.
-A potentially shippable product increment is demonstrated live.
-Inform the product owner so he can work with the CEO and if it is still necessary to get this work done in current sprint, it should be discussed with in the team.
-When the sprint duration ends.  For example, if sprints are 2 weeks long, then the sprint is complete at the end of those 2 weeks.
-Set team direction and synchronize the day’s activities.
-Identify impediments.
-Share status information.
-Individual team members should be encouraged to demo the work they did.
-It is important to follow up on action items the team decided to work on.
-Team members should avoid blaming (finger pointing) other team members in the retrospective.
+Which of the following is true about Scrum?|In the daily stand-up, everybody talks about what they worked on, what they are planning to work on, and any impediments they have.
+Which of the following is TRUE about Scrum? (Select two)|Scrum is an adaptive model.$Scrum has fixed, time-boxed development cycles called sprints.
+You are a developer on a scrum team. Your scrum master invited you to attend a sprint planning meeting. Which of following activities would you expect in that meeting?|The developers/testers provide a high-level estimate for stories.$Either during the meeting or afterwards, developers create tasks to further solidify what work needs to be done and make final a work commitment for the sprint.$The developers/testers ask questions to understand the stories.$The product owner (or equivalent) shares the top priority stories for the sprint.$The team will select the stories to work on for next iteration (sprint).
+During sprint planning, you are in the process of calculating team members capacity for an iteration. Which of the following activities should be EXCLUDED from the committed capacity of the team member?|Team member taking vacation / days off / Paid time off (PTO)
+What should happen in the sprint review meeting? (select any 3)|A potentially shippable product increment is demonstrated live.$What happened during the Sprint is reported.$Feedback is gathered from stakeholders resulting in additional items added to the product backlog.
+The CEO asks a team member to do some work outside the goals of the current sprint in progress. What should the team member do?|Inform the product owner so he can work with the CEO and if it is still necessary to get this work done in current sprint, it should be discussed with in the team.
+When is a sprint complete?|When the sprint duration ends. For example, if sprints are 2 weeks long, then the sprint is complete at the end of those 2 weeks.
+Which of the following are goals of the daily stand-up meeting?|Share status information.$Identify impediments.$Set team direction and synchronize the day's activities.
+Which of following is true about Sprint Reviews?|Individual team members should be encouraged to demo the work they did.
+Which of the following statements are true about the Sprint Retrospective? (select all that apply)|It is important to follow up on action items the team decided to work on.$Team members should avoid blaming (finger pointing) other team members in the retrospective.
