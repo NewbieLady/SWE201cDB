@@ -1,21 +1,15 @@
-indentation
-order of access restrictions
-variable name should be separated by underscore
-variable name should be lowercase
-variable should have trailing underscore
-Spacing between elements
-variable should have trailing underscore
-variable name should be lowercase
-indentation
-order of access restrictions
-Spacing between elements
-method names should be CamelCase
-False
-Breakpoint
-False
-False
-False
-True
-False
-True
-False
+8 4 5 6 7 1 2 3 }; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); class Airplane { private: int customerCapacity; Which of the following are style errors for the code on Line 2?|
+4 5 6 7 8 9 10 1 2 3 int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; class Airplane { private: Which of the following are style errors for the code on Line 3?|Spacing between elements$variable name should be lowercase$variable name should be separated by underscore$variable should have trailing underscore
+4 5 6 7 8 9 10 1 2 3 int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; class Airplane { private: Which of the following are style errors for the code on Line 4?|variable should have trailing underscore$variable name should be lowercase
+1 2 3 4 5 6 7 8 9 10 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 5?|indentation$order of access restrictions
+4 5 6 7 8 9 10 1 2 3 int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; class Airplane { private: Which of the following are style errors for the code on Line 6?|Spacing between elements
+1 2 3 4 5 6 7 8 9 10 class Airplane { private: int customerCapacity; string _Manufacturer; public: Airplane (int capacity, string manufacturer); int load_Customers(Customer *); }; Which of the following are style errors for the code on Line 7?|method names should be CamelCase
+Using a debugger can find all defects in code.|False
+What is created to allow a compiler to temporarily stop processing code that is being executed to allow for the developer to see current state?|Breakpoint
+Commits should happen only at the end of a daily coding session.|False
+Only one line of code should change per commit.|False
+Commit messages are only helpful to you at the time you make them.|False
+Branching aids developers seeking to work on the same code simultaneously.|True
+Project materials are stored in a remote repository through the WebHook functionality.|False
+Compilers perform static analysis.|True
+Static analysis can only be performed while code is being executed.|False
