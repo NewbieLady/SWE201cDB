@@ -1,20 +1,12 @@
-The developers make different solutions, each with the exact same features.
-The developers use short iterations.
-There are product defects found late in the development.
-Developers work on rarely used product features.
-Decisions are made after having enough information from considering the alternatives.
-Iterations are short, so feedback is frequent, and product evolution is rapid.
-A simpler version of software product (an MVP - Minimum Viable Product) is developed first to reach the market rapidly.
-The developers apply practices to avoid or quickly catch errors while making the software product.
-The developers refactor the source code to be simpler and easier to modify.
-Rather than trying to optimize one part, look at the whole system for optimization opportunities.
-The ability of a system to achieve its purpose depends on how well the parts work together, not just how well they perform individually.
-Value Stream Mapping
-Daily Builds and Smoke Tests
-Iteration
-Set Based Development
-Minimize the number of items in-process.
-Defer Commitment
-Reducing the amount of useless activity that our resources (the team members) are currently burdened with.
-Weekly meetings that are held whether or not they are needed.
-Delays in receiving work products.
+In Lean software development, how can amplifying learning occur? (Select all that apply)|The developers use short iterations.$The developers make different solutions, each with the exact same features.
+How can waste arise in software development? (Select all that apply)|There are product defects found late in the development.$Developers work on rarely used product features.
+In Lean software development, what does the principle of "defer commitment" mean?|Decisions are made after having enough information from considering the alternatives.
+In Lean software development, what does the principle of "deliver fast" mean? (select 2 that apply)|A simpler version of software product (an MVP - Minimum Viable Product) is developed first to reach the market rapidly.$Iterations are short, so feedback is frequent, and product evolution is rapid.
+Which of the following align with the lean principle of "build quality in"? (select 2 that apply)|The developers refactor the source code to be simpler and easier to modify.$The developers apply practices to avoid or quickly catch errors while making the software product.
+In Lean software development, what does "optimize the whole" mean? (Select all the apply)|The ability of a system to achieve its purpose depends on how well the parts work together, not just how well they perform individually.$Rather than trying to optimize one part, look at the whole system for optimization opportunities.
+Which of the following tools can help you find waste in a process?|Value Stream Mapping
+What are some of the tools to amplify learning? (Select all that apply)|Iteration$Set Based Development
+How do you deliver fast (i.e reduce cycle time) without compromising the quality?|Minimize the number of items in-process.
+"The Last Responsible Moment" is a tool for which Lean Software Principle?|Defer Commitment
+Lean helps increase productivity by:|Reducing the amount of useless activity that our resources (the team members) are currently burdened with.
+Which practices waste time during software development? (Choose two)|Weekly meetings that are held whether or not they are needed.$Delays in receiving work products.
