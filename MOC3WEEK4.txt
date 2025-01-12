@@ -1,11 +1,5 @@
-It recommends that a cross-functional team work together in the design thinking process.
-It consists of five steps: requirements, design, development, testing and deployment.
-To discover the real problem to be solved.
-To prevent team member bias from impacting their understanding of the problem and influencing the solution.
-Business Viability
-Technical Feasibility
-Human Desirability
-Probability that it will be wrong
-Impact on our solution if it is wrong
-Quality of data collected from the test
-Cost/Effort of conducting a test
+Which of the following are true about Design Thinking? Select 2.|It recommends that a cross-functional team work together in the design thinking process.$It is a process for creative problem solving.
+In design thinking, what are two of the main reasons to empathize with users?|To discover the real problem to be solved.$To prevent team member bias from impacting their understanding of the problem and influencing the solution.
+Design thinking results in innovation by integrating which three things?|Business Viability$Human Desirability$Technical Feasibility
+What are the two dimensions for categorizing assumptions?|Impact on our solution if it is wrong$Probability that it will be wrong
+What are the two dimensions for categorizing tests?|Quality of data collected from the test$Cost/Effort of conducting a test
