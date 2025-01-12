@@ -1,29 +1,15 @@
-To go through the build-measure-learn cycle as fast as possible.
-Validating the assumptions by conducting an experiment and collecting data.
-Validated Learning
-Entrepreneurs are everywhere
-Innovation Accounting
-It relies on actual data rather than gut feelings to validate assumptions or ideas.
-It is based on going through the Build-Measure-Learn cycle as fast as you can.
-Because startups face chaos and uncertainty.
-Employing a revised strategy in an attempt to achieve its vision.
-Accessible
-Actionable
-Auditable
-Activation
-Acquisition
-Retention
-Revenue
-Referral
-Platform pivot: A change from an application to a platform or vice versa.
-Customer segment pivot: The product hypothesis is partially confirmed; it solves the right problem but for a different customer than originally anticipated.
-Vanity metrics allow entrepreneurs to draw incorrect conclusions.  Based on these metrics, they assume that the product is going in the right direction when it really isn't.
-Repeat purchase
-As side advertising due to usage of the product
-Word-of-mouth referral
-Early adopters will give you their time and honest feedback.
-Early adopters are actively seeking a solution to the problem your product solves.
-Assumptions that are the riskiest elements of a startup plan.
-Customer feedback
-Experimentation and Iteration
-A manager who promotes innovations within the company.
+What is the main goal of the Build-Measure-Learn Cycle?|To go through the build-measure-learn cycle as fast as possible.
+What do we mean by Validated Learning?|Validating the assumptions by conducting an experiment and collecting data.
+Which of the following are principles of Lean startup? Select all that apply.|Validated Learning$Entrepreneurs are everywhere$Innovation Accounting
+Which of the following are true about Lean Startup? Select two.|It is based on going through the Build-Measure-Learn cycle as fast as you can.$It relies on actual data rather than gut feelings to validate assumptions or ideas.
+Why are traditional management principles ill-suited to the world of startups?|Because startups face chaos and uncertainty.
+When a startup 'pivots', what is it doing?|Employing a revised strategy in an attempt to achieve its vision.
+According to Ries, which of the following adjectives describes good startup metrics? Select all that apply.|Auditable$Actionable
+Which of the following are levels of Pirate Metrics? Select all that apply.|Activation$Retention$Revenue$Referral$Acquisition
+Which of the following are true about Pivot or Persevere? Select two.|Customer segment pivot: The product hypothesis is partially confirmed; it solves the right problem but for a different customer than originally anticipated.$Platform pivot: A change from an application to a platform or vice versa.
+How do Vanity metrics prevent/inhibit pivoting?|Vanity metrics allow entrepreneurs to draw incorrect conclusions. Based on these metrics, they assume that the product is going in the right direction when it really isn't.
+What are three ways that a past customer can drive sustainable growth?|Word-of-mouth referral$Repeat purchase
+What are the characteristics of "Early Adopters"?|Early adopters are actively seeking a solution to the problem your product solves.$Early adopters will give you their time and honest feedback.
+What are leap-of-faith assumptions?|Assumptions that are the riskiest elements of a startup plan.
+Which of these attributes are favored by Lean startup? Select two.|Customer feedback$Experimentation and Iteration
+Who is an "Intrapreneur" ?|A manager who promotes innovations within the company.
